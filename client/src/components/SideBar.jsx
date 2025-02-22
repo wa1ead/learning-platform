@@ -1,7 +1,7 @@
 export const SideBar = () => {
   return (
     <div>
-      <div className="drawer">
+      <div className="drawer min-h-full">
         <div className="drawer-open">
           <ul className="menu bg-base-200 rounded-box min-h-full">
             <li>

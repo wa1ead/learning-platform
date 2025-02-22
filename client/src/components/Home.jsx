@@ -1,9 +1,11 @@
+import { Hero } from "./Hero";
 import { SideBar } from "./SideBar";
 
 export const Home = () => {
   return (
-    <div>
+    <div className="flex">
       <SideBar />
+      <Hero />
     </div>
   );
 };
