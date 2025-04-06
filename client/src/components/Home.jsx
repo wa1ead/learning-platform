@@ -4,7 +4,7 @@ export const Home = () => {
       {/* Hero Section */}
       <section className="min-h-screen flex flex-col justify-center items-center text-center px-6 bg-gradient-to-br from-blue-600 to-purple-600 text-white">
         <h1 className="text-4xl md:text-6xl font-bold mb-4">
-          Master Full-Stack, Graphic Design & E-Commerce
+          Master Full-Stack Development, Graphic Design & E-Commerce
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mb-6">
           A powerful learning platform built to help you grow, build, and
