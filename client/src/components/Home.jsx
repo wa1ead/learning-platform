@@ -11,10 +11,10 @@ export const Home = () => {
           succeed in the digital world.
         </p>
         <div className="flex gap-4">
-          <button className="bg-white text-blue-600 px-6 py-3 rounded-full font-semibold hover:bg-gray-100 transition">
+          <button className="bg-white text-blue-600 px-6 py-3 rounded-full font-semibold hover:bg-gray-100 transition cursor-pointer">
             Get Started
           </button>
-          <button className="bg-transparent border border-white px-6 py-3 rounded-full hover:bg-white hover:text-blue-600 transition">
+          <button className="bg-transparent border border-white px-6 py-3 rounded-full font-semibold hover:bg-white hover:text-blue-600 transition cursor-pointer">
             Explore Programs
           </button>
         </div>
